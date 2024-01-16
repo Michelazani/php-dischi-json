@@ -1,36 +1,42 @@
 [
     {
     "id" : 1,
+    "urlImg" : "img/feid.jpeg",
     "title": "La Inocente", 
     "singer": "Feid ft Mora",
     "year": "2022"
     },
     {
     "id" : 2,
+    "urlImg" : "img/karolg.jpeg",
     "title": "QLONA", 
     "singer": "Karol G", 
     "year": "2023"
     },
     {
     "id" : 3,
+    "urlImg" : "img/quevedo.jpeg",
     "title": "Columbia", 
     "singer": "Quevedo", 
     "year": "2023"
     },
     {
     "id" : 4,
+    "urlImg" : "img/maluma.jpeg",
     "title": "Procura", 
     "singer": "Maluma", 
     "year": "2023"
     },
     {
     "id" : 5,
+    "urlImg" : "img/pesopluma.jpeg",
     "title": "La bebé", 
     "singer": "Peso Pluma", 
     "year": "2023"
     },
     {
     "id" : 6,
+    "urlImg" : "img/badbunny.jpeg",
     "title": "Ojitos Lindos", 
     "singer": "Bad Bunny", 
     "year": "2022"

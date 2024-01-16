@@ -1,8 +1,7 @@
 <?php
     // leggo il contenuto del file json
-    $jsonString = file_get_contents('json/songs.json');
-    // decodifica stringa JSON in array
-    $songsArray = json_decode($jsonString, true);
-    // stampo contenuto array con var_dump
-    var_dump($songsArray);
+    $jsonString = file_get_contents('./json/songs.json');
+    // avviso il browser che sta ricevendo un json e me lo fa visualizzare in modo diverso
+    header('Content-Type: application/json'); 
+    echo $jsonString;
 ?>

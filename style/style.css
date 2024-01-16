@@ -1,0 +1,15 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.box{
+    width: calc(100% / 3);
+    margin: 1rem;
+}
+
+img{
+    width: 200px;
+}
